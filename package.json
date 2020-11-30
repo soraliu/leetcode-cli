@@ -5,6 +5,9 @@
   "engines": {
     "node": ">=4"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": {
     "leetcode": "./bin/leetcode"
   },
